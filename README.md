@@ -1,4 +1,4 @@
-#Key Sequence Detection
+# Key Sequence Detection
 
 30 Day Code Challenge Project
 
